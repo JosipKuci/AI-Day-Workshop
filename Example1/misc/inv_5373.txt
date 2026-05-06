@@ -1,0 +1,4 @@
+Invoice #00060
+Date: 19.04.2025 22:21
+Customer: EuroTech Ltd
+Amount: $4832.13

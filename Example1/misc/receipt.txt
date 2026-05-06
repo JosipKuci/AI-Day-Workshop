@@ -1,0 +1,4 @@
+Invoice #00088
+Date: 2024-03-19 09:50
+Customer: Global Industries
+Amount: $8870.13

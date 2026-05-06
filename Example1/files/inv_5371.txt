@@ -1,0 +1,4 @@
+Invoice #00044
+Date: 08/11/2025 11:10
+Customer: Infinity Corp
+Amount: $7289.84

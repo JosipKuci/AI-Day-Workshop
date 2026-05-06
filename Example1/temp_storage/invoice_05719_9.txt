@@ -1,0 +1,4 @@
+Invoice #00100
+Date: 09/19/2023 06:46
+Customer: Stellar Group
+Amount: $8714.94

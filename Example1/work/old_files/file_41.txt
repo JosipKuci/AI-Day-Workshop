@@ -1,0 +1,4 @@
+Invoice #00041
+Date: 03.11.2025 13:17
+Customer: EuroTech Ltd
+Amount: $1915.72

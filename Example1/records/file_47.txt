@@ -1,0 +1,4 @@
+Invoice #00047
+Date: 28.02.2024 21:34
+Customer: Blue Sky Solutions
+Amount: $2271.82

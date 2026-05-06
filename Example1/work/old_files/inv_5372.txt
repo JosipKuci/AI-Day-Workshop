@@ -1,0 +1,4 @@
+Invoice #00055
+Date: 18.02.2025 18:04
+Customer: Digital Dreams
+Amount: $7999.76

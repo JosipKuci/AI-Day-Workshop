@@ -1,0 +1,4 @@
+Invoice #00014
+Date: 12/05/2024 00:04
+Customer: TechStart Inc
+Amount: $2337.78

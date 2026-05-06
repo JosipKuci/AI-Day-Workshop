@@ -1,0 +1,4 @@
+Invoice #00059
+Date: 10/12/2024 06:47
+Customer: Global Industries
+Amount: $3167.17

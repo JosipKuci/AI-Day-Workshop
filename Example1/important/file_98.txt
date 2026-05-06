@@ -1,0 +1,4 @@
+Invoice #00098
+Date: 10.11.2024 03:29
+Customer: Stellar Group
+Amount: $106.6

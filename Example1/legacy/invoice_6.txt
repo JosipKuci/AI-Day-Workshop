@@ -1,0 +1,4 @@
+Invoice #00006
+Date: 24.10.2025 05:58
+Customer: Velocity Partners
+Amount: $6591.79

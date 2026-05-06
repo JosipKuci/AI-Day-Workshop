@@ -1,0 +1,4 @@
+Invoice #00004
+Date: 2025-06-10 03:45
+Customer: OmniState LLC
+Amount: $742.21

@@ -1,0 +1,4 @@
+Invoice #00015
+Date: 21.07.2024 08:36
+Customer: TechStart Inc
+Amount: $3826.22

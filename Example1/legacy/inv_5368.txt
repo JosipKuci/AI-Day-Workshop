@@ -1,0 +1,4 @@
+Invoice #00022
+Date: 11.09.2024 19:21
+Customer: EuroTech Ltd
+Amount: $1693.6

@@ -1,0 +1,4 @@
+Invoice #00029
+Date: 23.07.2025 08:20
+Customer: CloudNine Services
+Amount: $561.92

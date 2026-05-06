@@ -1,0 +1,4 @@
+Invoice #00051
+Date: 08/03/2024 06:11
+Customer: NextGen Systems
+Amount: $6958.30

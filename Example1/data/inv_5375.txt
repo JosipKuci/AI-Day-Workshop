@@ -1,0 +1,4 @@
+Invoice #00075
+Date: 03/20/2024 06:46
+Customer: Infinity Corp
+Amount: $5241.96

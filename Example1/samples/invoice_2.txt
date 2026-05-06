@@ -1,0 +1,4 @@
+Invoice #00002
+Date: 04.12.2025 02:51
+Customer: Prime Ventures
+Amount: $2175.96

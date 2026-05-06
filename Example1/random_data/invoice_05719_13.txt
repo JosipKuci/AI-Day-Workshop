@@ -1,0 +1,4 @@
+Invoice #00104
+Date: 2023-05-27 12:01
+Customer: Digital Dreams
+Amount: $8502.98

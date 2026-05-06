@@ -1,0 +1,4 @@
+Invoice #00024
+Date: 03/12/2024 06:46
+Customer: CloudNine Services
+Amount: $3185.93

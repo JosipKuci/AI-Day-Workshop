@@ -1,0 +1,4 @@
+Invoice #00037
+Date: 09/01/2025 22:29
+Customer: Infinity Corp
+Amount: $2768.3

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x create_chaos.sh)",
+      "Bash(./create_chaos.sh)",
+      "Bash(xargs -I {} sh -c 'echo \"FILE: {}\"; cat {}; echo \"\"')",
+      "Bash(chmod +x add_more_invoices.sh)",
+      "Bash(./add_more_invoices.sh)",
+      "mcp__mcp-registry__search_mcp_registry"
+    ]
+  }
+}

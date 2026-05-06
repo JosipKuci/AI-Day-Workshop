@@ -1,0 +1,4 @@
+Invoice #00099
+Date: 18.09.2024 21:50
+Customer: Velocity Partners
+Amount: $4518.94

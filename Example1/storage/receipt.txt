@@ -1,0 +1,4 @@
+Invoice #00070
+Date: 06/22/2025 10:36
+Customer: Infinity Corp
+Amount: $7736.62

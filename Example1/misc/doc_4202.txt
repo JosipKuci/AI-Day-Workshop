@@ -1,0 +1,4 @@
+Invoice #00039
+Date: 2024-01-15 20:16
+Customer: Quantum Labs
+Amount: $7606.79

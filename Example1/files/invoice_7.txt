@@ -1,0 +1,4 @@
+Invoice #00007
+Date: 07/05/2024 02:30
+Customer: Acme Corp
+Amount: $5012.19

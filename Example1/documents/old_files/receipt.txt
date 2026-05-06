@@ -1,0 +1,4 @@
+Invoice #00073
+Date: 12/18/2025 00:27
+Customer: EuroTech Ltd
+Amount: $3070.91

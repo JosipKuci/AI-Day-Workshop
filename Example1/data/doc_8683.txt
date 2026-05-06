@@ -1,0 +1,4 @@
+Invoice #00066
+Date: 2024-06-26 15:49
+Customer: Blue Sky Solutions
+Amount: $806.96

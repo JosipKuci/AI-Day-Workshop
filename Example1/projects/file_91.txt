@@ -1,0 +1,4 @@
+Invoice #00091
+Date: 22.07.2025 05:46
+Customer: Infinity Corp
+Amount: $2287.93

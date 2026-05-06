@@ -1,0 +1,4 @@
+Invoice #00102
+Date: 2023-08-12 03:13
+Customer: OmniState LLC
+Amount: $3726.25

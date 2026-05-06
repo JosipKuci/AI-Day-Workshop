@@ -1,0 +1,4 @@
+Invoice #00103
+Date: 06/23/2023 16:36
+Customer: Digital Dreams
+Amount: $6744.64

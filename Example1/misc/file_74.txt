@@ -1,0 +1,4 @@
+Invoice #00074
+Date: 07/24/2024 21:16
+Customer: Stellar Group
+Amount: $7998.92

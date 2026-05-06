@@ -1,0 +1,4 @@
+Invoice #00019
+Date: 07.12.2024 05:08
+Customer: Prime Ventures
+Amount: $1976.91

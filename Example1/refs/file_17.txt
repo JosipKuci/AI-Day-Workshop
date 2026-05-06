@@ -1,0 +1,4 @@
+Invoice #00017
+Date: 03/25/2025 10:33
+Customer: NextGen Systems
+Amount: $6237.42

@@ -1,0 +1,4 @@
+Invoice #00012
+Date: 22.04.2025 22:44
+Customer: Velocity Partners
+Amount: $6192.95

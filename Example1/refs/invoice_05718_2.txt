@@ -1,0 +1,4 @@
+Invoice #00093
+Date: 01.10.2025 16:14
+Customer: CloudNine Services
+Amount: $2605.36

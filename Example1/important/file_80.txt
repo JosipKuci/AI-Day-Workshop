@@ -1,0 +1,4 @@
+Invoice #00080
+Date: 2024-02-27 08:07
+Customer: Global Industries
+Amount: $6112.71

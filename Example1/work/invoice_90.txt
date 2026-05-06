@@ -1,0 +1,4 @@
+Invoice #00090
+Date: 06.09.2025 16:16
+Customer: Blue Sky Solutions
+Amount: $2996.89

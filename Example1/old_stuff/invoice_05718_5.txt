@@ -1,0 +1,4 @@
+Invoice #00096
+Date: 01/01/2024 18:50
+Customer: TechStart Inc
+Amount: $621.65

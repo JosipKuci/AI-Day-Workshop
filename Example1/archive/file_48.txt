@@ -1,0 +1,4 @@
+Invoice #00048
+Date: 2024-02-28 17:30
+Customer: OmniState LLC
+Amount: $4931.91

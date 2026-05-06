@@ -1,0 +1,4 @@
+Invoice #00033
+Date: 06.06.2025 20:51
+Customer: Global Industries
+Amount: $3123.87

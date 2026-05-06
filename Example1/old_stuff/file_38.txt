@@ -1,0 +1,4 @@
+Invoice #00038
+Date: 25.03.2025 14:59
+Customer: Quantum Labs
+Amount: $3714.0

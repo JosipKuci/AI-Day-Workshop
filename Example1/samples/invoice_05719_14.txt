@@ -1,0 +1,4 @@
+Invoice #00105
+Date: 14.07.2023 23:17
+Customer: EuroTech Ltd
+Amount: $6347.86

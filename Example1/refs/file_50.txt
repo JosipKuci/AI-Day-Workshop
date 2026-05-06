@@ -1,0 +1,4 @@
+Invoice #00050
+Date: 26.07.2024 00:01
+Customer: Velocity Partners
+Amount: $3568.30

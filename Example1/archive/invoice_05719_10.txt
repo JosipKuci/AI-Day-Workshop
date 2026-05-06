@@ -1,0 +1,4 @@
+Invoice #00101
+Date: 23.12.2023 02:50
+Customer: Acme Corp
+Amount: $2843.44

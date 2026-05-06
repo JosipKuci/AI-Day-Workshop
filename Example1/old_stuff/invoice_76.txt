@@ -1,0 +1,4 @@
+Invoice #00076
+Date: 02/01/2025 11:16
+Customer: Apex Enterprises
+Amount: $3526.24

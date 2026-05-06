@@ -1,0 +1,4 @@
+Invoice #00100
+Date: 24.05.2025 01:53
+Customer: Infinity Corp
+Amount: $4351.3

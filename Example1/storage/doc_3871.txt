@@ -1,0 +1,4 @@
+Invoice #00016
+Date: 09/02/2024 17:10
+Customer: EuroTech Ltd
+Amount: $2896.44

@@ -1,0 +1,4 @@
+Invoice #00087
+Date: 24.09.2025 23:30
+Customer: Prime Ventures
+Amount: $605.35

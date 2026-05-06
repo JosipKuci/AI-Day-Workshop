@@ -1,0 +1,4 @@
+Invoice #00054
+Date: 05/11/2024 14:03
+Customer: Velocity Partners
+Amount: $1541.11
